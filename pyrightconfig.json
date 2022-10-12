@@ -1,0 +1,13 @@
+{
+    "venvPath": "C:\\Users\\Kraken\\anaconda3\\envs",
+    "venv": "breccia-classifier",
+
+    "executionEnvironments": [
+        {
+          "root": "/.",
+          "extraPaths": [
+            "/."
+          ]
+        }
+    ]
+}
